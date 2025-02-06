@@ -40,7 +40,7 @@ I am a **Software Engineer** and **Full-Stack Developer** passionate about **aut
 - Created **custom Python productivity tools** to enhance workflow efficiency.
 - Worked in an **Agile** environment with cross-functional teams.
 
-#### **Freelance Software Development (Nov 2021 - Present)**
+#### **Freelance Software Development (Nov 2020 - Present)**
 - Began in **game development**, but transitioned into **desktop and application development**.
 - Specialized in **UI/UX design**, leveraging **C#, Windows Forms, Angular, and Electron**.
 - Expanded into **full-stack development**, integrating **Node.js, REST APIs, and cloud-based solutions**.
